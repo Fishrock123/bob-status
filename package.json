@@ -1,0 +1,20 @@
+{
+  "name": "bob-status",
+  "version": "0.0.0",
+  "description": "Status codes for the BOB streaming protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "BOB",
+    "bob",
+    "streams",
+    "stream",
+    "pull"
+  ],
+  "author": "Jeremiah Senkpiel <fishrock123@rocketmail.com>",
+  "license": "MIT",
+  "repository": "github:Fishrock123/bob-status",
+  "homepage": "https://github.com/Fishrock123/bob"
+}
