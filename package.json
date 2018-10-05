@@ -1,6 +1,6 @@
 {
   "name": "bob-status",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Status codes for the BOB streaming protocol.",
   "main": "index.js",
   "scripts": {
