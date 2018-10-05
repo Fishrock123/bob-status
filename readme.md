@@ -2,7 +2,7 @@
 
 Status codes for the [BOB](https://github.com/Fishrock123/bob) streaming protocol.
 
-```
+```js
 const { error, end, continue } = require('bob-status')
 ```
 
